@@ -7,7 +7,7 @@
 
 Bu proje, **CENG 476 - Introduction to Deep Learning** dersi kapsamında geliştirilmiştir. Projenin temel amacı, farklı metin tabanlı veri setleri (Duygu Analizi, Şiddet İçeren Tweetler ve Nefret Söylemi) üzerinde ortak bir öğrenme yapısı kurarak, modelin genelleştirme yeteneğini artırmak ve tek bir sinir ağı mimarisi ile çoklu görevleri (Multi-Task Learning) başarıyla yönetmektir.
 
-## 2. Proje Geliştiricisi (Developer)
+## 2. Proje Geliştiricisi (Develaper)
 * **Ad Soyad:** Hasan Çatak
 * **Öğrenci No:** 200444073
 * **Rol:** Model tasarımı, veri ön işleme, eğitim süreçleri ve optimizasyonun tamamı tarafımdan gerçekleştirilmiştir.
@@ -33,7 +33,7 @@ Bu projede, metin verilerini işlemek için **LSTM (Long Short-Term Memory)** ta
 * **Early Stopping:** Modelin gelişiminin durduğu noktada eğitim otomatik olarak sonlandırıldı.
 
 ## 4. Kurulum ve Çalıştırma (Installation & Usage)
-Bu proje Google Colab veya Kaggle Notebook üzerinde çalıştırılmak üzere tasarlanmıştır.
+Bu proje Google Colab veya Kaggle Notebook ile çalıştırılabilir.
 
 ### Adım 1: Dosyaları Hazırlama
 Projeyi çalıştırmak için aşağıdaki veri setlerinin Kaggle'dan indirilmesi veya ortamda bulunması gerekmektedir:
@@ -41,7 +41,6 @@ Projeyi çalıştırmak için aşağıdaki veri setlerinin Kaggle'dan indirilmes
 * `Train.csv` (Gender Based Violence Tweet Classification)(https://www.kaggle.com/datasets/gauravduttakiit/gender-based-violence-tweet-classification)
 * `labeled_data.csv` (Hate Speech and Offensive Language)(https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset)
 
-*(Not: Bu veri setleri Kaggle "input" dizininde varsayılan olarak tanımlıdır.)*
 
 ### Adım 2: Çalıştırma
 Projenin `.ipynb` dosyasını açın ve hücreleri sırasıyla çalıştırın. Model eğitim süreci otomatik olarak başlayacak ve sonuçlar (Classification Report, Confusion Matrix ve Loss Grafikleri) ekrana yazdırılacaktır.
