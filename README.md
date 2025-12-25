@@ -1,8 +1,5 @@
 # CENG 476 - DeepText Multi-Task Classifier Project
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HAasan123/deeplearn-nlp
-/blob/main/deeplearn-nlp
-.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HAasan123/deeplearn-nlp/blob/main/deeplearn-nlp.ipynb)
 
 ## 1. Proje Hakkında (Project Overview)
 **DeepText Multi-Task Classifier**, doğal dil işleme (NLP) tekniklerini kullanarak üç farklı sınıflandırma görevini tek bir model üzerinde gerçekleştiren gelişmiş bir derin öğrenme projesidir.
